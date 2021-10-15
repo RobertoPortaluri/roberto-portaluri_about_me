@@ -15,6 +15,7 @@ Now, I am a proud contributor to BitRocket.dev🚀, and am constantly updating a
 • TypeScript
 • ReactJS
 • Redux
+• Redux Toolkit
 • Storybook
 • Styled Components
 • Git
