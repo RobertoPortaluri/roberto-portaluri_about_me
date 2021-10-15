@@ -13,7 +13,7 @@ Now, I am a proud contributor to BitRocket.dev🚀, and am constantly updating a
 [<img align="left" alt="JS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
 [<img align="left" alt="TS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][ts]
 [<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-[<img align="left" alt="Redux" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />][redux]
+[<img align="left" alt="Redux" width="30px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" />][redux]
 [<img align="left" alt="Redux-saga" width="30px" src="https://redux-saga.js.org//img/Redux-Saga-Logo-Portrait.png" />][redux-saga]
 [<img align="left" alt="Cypress" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBNI2O14xx9s1OidGqEuN9HTH85uOnrTDYke3QK2zYSQ4VLTMXlvHWPSgNCjMLJODdel8&usqp=CAU" />][cypress]
 [<img align="left" alt="styled-component" width="30px" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" />][styled-components]
