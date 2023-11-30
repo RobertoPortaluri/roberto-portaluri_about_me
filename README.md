@@ -1,10 +1,10 @@
-👋🏻😁HI! I am a Front End developer with 2 years of development experience in React JS and React Native.
+👋🏻😁HI! I am a Front End developer with 3 years of development experience in React JS and React Native.
 
 ## ABOUT ME:
 I am a sports lover ⚽️ and a video game enthusiast 🎮,
 Since I was a child I have had the passion and dedication for everything related to technology 📱, and the best thing that could happen to me, is to have made it my job📂
 
-Now, I am a proud contributor to BitRocket.dev🚀, and am constantly updating and developing to increase my skills🔮.
+Now, I am constantly updating and developing to increase my skills🔮.
 
 ## TECH SKILLS:
 
